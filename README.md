@@ -22,8 +22,11 @@ SiiWay-HSA采用Python、PHP、JavaScript、c-sharp等语言构建了不同的�
 5. 提交一个Pull Request到主仓库。
 
 ## 联系方式
-如有任何问题或建议，请联系我：
+如有任何问题或建议，请联系我们：
 团队邮箱:siiway@126.com
+
 xhc861公用QQ:2683896673
+
 wyf9邮箱:wyf9@wyf9.top
+
 xhc861个人QQ:3043536727
